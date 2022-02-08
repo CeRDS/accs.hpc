@@ -1,0 +1,4 @@
+[submodule "roles/slurm"]
+	path = roles/slurm
+	url = https://github.com/CeRDS/ansible-role-slurm.git
+	branch = main
